@@ -1,3 +1,7 @@
+body {
+  background: #f8e8a6;
+}
+
 h1,
 p {
   text-align: center;
@@ -13,4 +17,12 @@ p {
 
 img {
   border-radius: 10px;
+}
+
+.navigation-links a {
+  color: green;
+}
+
+.navigation-links:visited {
+  color: green;
 }
