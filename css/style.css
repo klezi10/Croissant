@@ -1,0 +1,16 @@
+h1,
+p {
+  text-align: center;
+}
+
+.navigation-links {
+  text-align: center;
+}
+
+.navigation-link {
+  padding: 10px;
+}
+
+img {
+  border-radius: 10px;
+}
