@@ -11,18 +11,18 @@ p {
   text-align: center;
 }
 
-.navigation-link {
-  padding: 10px;
-}
-
-img {
-  border-radius: 10px;
-}
-
 .navigation-links a {
+  padding: 10px;
   color: green;
 }
 
 .navigation-links:visited {
   color: green;
+}
+
+img {
+  border-radius: 10px;
+  max-width: 100%;
+  margin: 30px auto;
+  display: block;
 }
